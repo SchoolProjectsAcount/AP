@@ -1,0 +1,10 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.references {
+    padding-left: 40px;
+    text-indent: -40px;
+}
